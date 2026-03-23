@@ -4,7 +4,7 @@ const multer    = require('multer');
 const { spawn } = require('child_process');
 const fs        = require('fs');
 const path      = require('path');
-const qrcode    = require('qrcode');
+const qrcode    = require('qrcode'); 
 
 const app  = express();
 const PORT = process.env.PORT || 8081;
