@@ -1,4 +1,4 @@
-// server-whatsapp.js — AllPredictor WhatsApp Bot Manager (Baileys)
+// server-whatsapp.js — AllPredictor WhatsApp Bot Manager (Baileys) 
 const express   = require('express');
 const multer    = require('multer');
 const { spawn } = require('child_process');
